@@ -9,5 +9,4 @@ https://blog.outsider.ne.kr/1448
 Git Bash를 이용한 Git 명령어
 https://gbsb.tistory.com/10
 
-마크다운 markdown 작성법
-https://gist.github.com/ihoneymon/652be052a0727ad59601
+[마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
