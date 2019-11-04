@@ -16,3 +16,5 @@ I hope I'm better after reading
 [d3 mouseover multi-line chart](https://bl.ocks.org/larsenmtl/e3b8b7c2ca4787f77d78f58d41c3da91)
 
 [SI회사에 입사하기 전 읽으면 좋은 글 - SI의 단점](https://preamtree.tistory.com/133?fbclid=IwAR1zaYdt14GQTpV84Wgw_uUmd8YvFXsQrr5KYnBkygMYHlPRl2oKqsCFu2w)
+
+[GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
