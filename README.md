@@ -14,3 +14,5 @@ I hope I'm better after reading
 [Git을 사용할 때 알아야 할 4 가지](https://medium.com/@moonformeli/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
 
 [d3 mouseover multi-line chart](https://bl.ocks.org/larsenmtl/e3b8b7c2ca4787f77d78f58d41c3da91)
+
+[SI회사에 입사하기 전 읽으면 좋은 글 - SI의 단점](https://preamtree.tistory.com/133?fbclid=IwAR1zaYdt14GQTpV84Wgw_uUmd8YvFXsQrr5KYnBkygMYHlPRl2oKqsCFu2w)
