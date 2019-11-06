@@ -18,3 +18,5 @@ I hope I'm better after reading
 [SI회사에 입사하기 전 읽으면 좋은 글 - SI의 단점](https://preamtree.tistory.com/133?fbclid=IwAR1zaYdt14GQTpV84Wgw_uUmd8YvFXsQrr5KYnBkygMYHlPRl2oKqsCFu2w)
 
 [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
+
+[초보몽키의 개발공부로그](https://wayhome25.github.io)
