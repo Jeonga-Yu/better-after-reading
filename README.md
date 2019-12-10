@@ -28,3 +28,5 @@ I hope I'm better after reading
 [Vue 테스트와 리팩토링](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
 
 [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
+
+[웹 서비스 출시 전 확인사항](https://hodolman.com/25)
