@@ -30,3 +30,5 @@ I hope I'm better after reading
 [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
 
 [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
+
+[(고급) JavaScript 질문 목록](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
