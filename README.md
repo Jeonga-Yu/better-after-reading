@@ -34,3 +34,5 @@ I hope I'm better after reading
 [(고급) JavaScript 질문 목록](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
 
 [SQL 초보자를 위한 쿼리최적화 for SQL 튜닝](https://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
+
+[NPM 배포하기](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
