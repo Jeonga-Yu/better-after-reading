@@ -40,3 +40,5 @@ I hope I'm better after reading
 [NPM 배포하기](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
 
 [Vue.js SPA튜토리얼 part1](https://medium.com/hivelab-dev/vue-js-spa-tutorial-part1-d74aca1bba58)
+
+[체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
