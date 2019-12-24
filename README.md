@@ -42,3 +42,7 @@ I hope I'm better after reading
 [Vue.js SPA튜토리얼 part1](https://medium.com/hivelab-dev/vue-js-spa-tutorial-part1-d74aca1bba58)
 
 [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
+
+[분야별 영어공부 사이트 추천](https://tagilog.tistory.com/527?category=645618)
+
+[훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8](https://tagilog.tistory.com/579?fbclid=IwAR3VNuZqDucGJ-EFrIH8XKvstuPIgF_XvfylLo4TPD5xIRLYc-UaN2CP2-c)
