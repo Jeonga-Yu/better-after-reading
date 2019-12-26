@@ -46,3 +46,5 @@ I hope I'm better after reading
 [분야별 영어공부 사이트 추천](https://tagilog.tistory.com/527?category=645618)
 
 [훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8](https://tagilog.tistory.com/579?fbclid=IwAR3VNuZqDucGJ-EFrIH8XKvstuPIgF_XvfylLo4TPD5xIRLYc-UaN2CP2-c)
+
+[자바스크립트 이벤트 제대로 이해하기 (Part 1)](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-part-1-2a7d4b9eb468)
