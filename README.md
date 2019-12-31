@@ -50,3 +50,5 @@ I hope I'm better after reading
 [자바스크립트 이벤트 제대로 이해하기 (Part 1)](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-part-1-2a7d4b9eb468)
 
 [Javascript 성능을 개선하는 7가지 방법](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
+
+[Slack을 활용해서 막일 줄이기](https://www.popit.kr/slack-tip/)
