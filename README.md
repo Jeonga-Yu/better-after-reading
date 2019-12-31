@@ -52,3 +52,5 @@ I hope I'm better after reading
 [Javascript 성능을 개선하는 7가지 방법](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
 
 [Slack을 활용해서 막일 줄이기](https://www.popit.kr/slack-tip/)
+
+[초보개발자가 오픈소스에 기여하는 5단계](http://www.bloter.net/archives/197960)
