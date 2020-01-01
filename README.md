@@ -54,3 +54,5 @@ I hope I'm better after reading
 [Slack을 활용해서 막일 줄이기](https://www.popit.kr/slack-tip/)
 
 [초보개발자가 오픈소스에 기여하는 5단계](http://www.bloter.net/archives/197960)
+
+[HTTP Protocol](https://medium.com/@shaul1991/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%BC%EC%A7%80-http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%EC%9D%B4%ED%95%B4-1-b9005a77e5fd?)
