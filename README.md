@@ -58,3 +58,5 @@ I hope I'm better after reading
 [HTTP Protocol](https://medium.com/@shaul1991/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%BC%EC%A7%80-http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%EC%9D%B4%ED%95%B4-1-b9005a77e5fd?)
 
 [반드시 기억해야 하는 CSS 선택자](https://code.tutsplus.com/ko/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+[당신의 개발자들은 결코 느리지않다](http://tech.trenbe.com/?p=547)
