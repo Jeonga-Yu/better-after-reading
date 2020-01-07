@@ -62,3 +62,5 @@ I hope I'm better after reading
 [당신의 개발자들은 결코 느리지않다](http://tech.trenbe.com/?p=547)
 
 [이동욱님의 2019 하반기 회고](https://jojoldu.tistory.com/471)
+
+[2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
