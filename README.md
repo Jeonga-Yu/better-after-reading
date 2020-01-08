@@ -64,3 +64,5 @@ I hope I'm better after reading
 [이동욱님의 2019 하반기 회고](https://jojoldu.tistory.com/471)
 
 [2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
+
+[OS 제작 공부 정리 블로그](https://godrjsmgl.tistory.com/66)
