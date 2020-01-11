@@ -66,3 +66,5 @@ I hope I'm better after reading
 [2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
 
 [OS 제작 공부 정리 블로그](https://godrjsmgl.tistory.com/66)
+
+[ES2020](https://medium.com/javascript-in-plain-english/new-features-in-es2020-you-should-check-b4974d9d7edc)
