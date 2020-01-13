@@ -70,3 +70,5 @@ I hope I'm better after reading
 [ES2020](https://medium.com/javascript-in-plain-english/new-features-in-es2020-you-should-check-b4974d9d7edc)
 
 [웹팩 대신 파셀 사용해보기](https://junhobaik.github.io/parcel-start/)
+
+[5분 안에 보는 TypeScript](https://typescript-kr.github.io/pages/tutorials/TypeScript%20in%205%20minutes.html)
