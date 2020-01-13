@@ -68,3 +68,5 @@ I hope I'm better after reading
 [OS 제작 공부 정리 블로그](https://godrjsmgl.tistory.com/66)
 
 [ES2020](https://medium.com/javascript-in-plain-english/new-features-in-es2020-you-should-check-b4974d9d7edc)
+
+[웹팩 대신 파셀 사용해보기](https://junhobaik.github.io/parcel-start/)
