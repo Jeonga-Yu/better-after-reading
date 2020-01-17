@@ -76,3 +76,5 @@ I hope I'm better after reading
 [자바스크립트 배열 메서드 reduce 활용법](https://medium.com/@hongkevin/js-3-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%84%9C%EB%93%9C-reduce-100-%ED%99%9C%EC%9A%A9%EB%B2%95-feat-egghead-io-97c679857ece)
 
 [클라우드 기술의 5가지 주요 흐름 – 2019년 회고](https://aws.amazon.com/ko/blogs/korea/5-things-of-cloud-techflow-in-2019/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR3ORMdtgNTJT4W1cVMFkMOrxkyBrfVVtSMRMSu_gaEVQ9CqjccP6VUxKf8)
+
+[슬랙봇을 만들어봅시다](https://story.pxd.co.kr/1262)
