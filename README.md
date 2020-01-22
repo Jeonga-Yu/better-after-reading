@@ -78,3 +78,5 @@ I hope I'm better after reading
 [클라우드 기술의 5가지 주요 흐름 – 2019년 회고](https://aws.amazon.com/ko/blogs/korea/5-things-of-cloud-techflow-in-2019/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR3ORMdtgNTJT4W1cVMFkMOrxkyBrfVVtSMRMSu_gaEVQ9CqjccP6VUxKf8)
 
 [슬랙봇을 만들어봅시다](https://story.pxd.co.kr/1262)
+
+[GIT 계정 여러 개 동시 사용하기]
