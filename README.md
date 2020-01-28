@@ -84,3 +84,5 @@ I hope I'm better after reading
 [TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
 
 [데이터 분석, 먹고 들어가기 위한 SQL 공부법](https://brunch.co.kr/@minu-log/5#comment)
+
+[웹크롤링 기본](https://www.fun-coding.org/crawl_basic1.html)
