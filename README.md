@@ -86,3 +86,5 @@ I hope I'm better after reading
 [데이터 분석, 먹고 들어가기 위한 SQL 공부법](https://brunch.co.kr/@minu-log/5#comment)
 
 [웹크롤링 기본](https://www.fun-coding.org/crawl_basic1.html)
+
+[알아두면 유익한 2019 개발이야기](https://subicura.com/2020/01/07/2019-dev-summary.html)
