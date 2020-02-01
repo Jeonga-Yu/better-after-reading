@@ -92,3 +92,5 @@ I hope I'm better after reading
 [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/)
 
 [top-developer-tools-2019](https://stackshare.io/posts/top-developer-tools-2019)
+
+[자바개발자가 리액트 개발자로 전향한 이야기](https://brunch.co.kr/@chickenmoim/17)
