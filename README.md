@@ -94,3 +94,5 @@ I hope I'm better after reading
 [top-developer-tools-2019](https://stackshare.io/posts/top-developer-tools-2019)
 
 [자바개발자가 리액트 개발자로 전향한 이야기](https://brunch.co.kr/@chickenmoim/17)
+
+[IT정보 타임라인](http://wedul.space/)
