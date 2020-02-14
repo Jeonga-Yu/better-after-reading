@@ -1,16 +1,7 @@
-# better-after-reading
+# 🔖better-after-reading
 
+개인적으로 다시 읽고 싶은 글이나 도움이 되었던 내용을 정리한 저장소입니다 ☺️
 
-I hope I'm better after reading
-
-* * *
-
-## Git
-[Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
-
-[Git Bash를 이용한 Git 명령어](https://gbsb.tistory.com/10)
-
-[Git을 사용할 때 알아야 할 4 가지](https://medium.com/@moonformeli/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
 
 
 ## 개발자님들 블로그
@@ -52,6 +43,13 @@ I hope I'm better after reading
 [IT정보 타임라인](http://wedul.space/)
 
 [주니어 개발자가 공부하는 방법](https://medium.com/graphql-seoul/%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-677b58e4111d)
+
+## Git
+[Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
+
+[Git Bash를 이용한 Git 명령어](https://gbsb.tistory.com/10)
+
+[Git을 사용할 때 알아야 할 4 가지](https://medium.com/@moonformeli/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
 
 ## WEB
 
