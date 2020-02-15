@@ -44,6 +44,8 @@
 
 [주니어 개발자가 공부하는 방법](https://medium.com/graphql-seoul/%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-677b58e4111d)
 
+[개발자가 번아웃을 피하는방법(영문)](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
+
 ## Git
 [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
 
