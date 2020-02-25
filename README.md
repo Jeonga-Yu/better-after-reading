@@ -89,6 +89,8 @@
 
 [NPM 배포하기](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
 
+[견고한-node.js-프로젝트-아키텍쳐-설계하기](https://velog.io/@hopsprings2/견고한-node.js-프로젝트-아키텍쳐-설계하기)
+
 ### Type Script
 
 [5분 안에 보는 TypeScript](https://typescript-kr.github.io/pages/tutorials/TypeScript%20in%205%20minutes.html)
