@@ -53,6 +53,8 @@
 
 [Git을 사용할 때 알아야 할 4 가지](https://medium.com/@moonformeli/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
 
+[컴퓨터공학과 새내기가 수강신청하는 법](https://blog.ch4n3.me/493)
+
 ## WEB
 
 [HTTP Protocol](https://medium.com/@shaul1991/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%BC%EC%A7%80-http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%EC%9D%B4%ED%95%B4-1-b9005a77e5fd?)
