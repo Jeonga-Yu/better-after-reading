@@ -87,6 +87,8 @@
 
 [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/)
 
+[바닥부터 시작하는 Vue컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
+
 ### Node.js
 
 [NPM 배포하기](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
