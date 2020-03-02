@@ -89,6 +89,8 @@
 
 [바닥부터 시작하는 Vue컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
 
+[2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
+
 ### Node.js
 
 [NPM 배포하기](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
