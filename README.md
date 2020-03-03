@@ -46,6 +46,8 @@
 
 [개발자가 번아웃을 피하는방법(영문)](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
 
+[취직 준비를 위해 좋은 포트폴리오 만드는 법](https://okky.kr/article/663519)
+
 ## Git
 [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
 
