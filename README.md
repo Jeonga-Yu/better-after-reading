@@ -93,6 +93,8 @@
 
 [2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
 
+[JavaScript Observer API](https://www.huskyhoochu.com/js-observers/)
+
 ### Node.js
 
 [NPM 배포하기](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
