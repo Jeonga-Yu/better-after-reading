@@ -59,6 +59,8 @@
 
 [당근마켓의 deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-545f278ca878)
 
+[깃허브에서 1만 스타 받은 한국의 오픈소스들](https://byline-network.cdn.ampproject.org/c/s/byline.network/2020/03/3-63/amp/)
+
 ## WEB
 
 [HTTP Protocol](https://medium.com/@shaul1991/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%BC%EC%A7%80-http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%EC%9D%B4%ED%95%B4-1-b9005a77e5fd?)
