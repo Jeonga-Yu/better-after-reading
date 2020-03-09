@@ -61,6 +61,8 @@
 
 [깃허브에서 1만 스타 받은 한국의 오픈소스들](https://byline-network.cdn.ampproject.org/c/s/byline.network/2020/03/3-63/amp/)
 
+[구글 면접과정 일기](https://brunch.co.kr/@cmiscm/15)
+
 ## WEB
 
 [HTTP Protocol](https://medium.com/@shaul1991/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%BC%EC%A7%80-http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%EC%9D%B4%ED%95%B4-1-b9005a77e5fd?)
